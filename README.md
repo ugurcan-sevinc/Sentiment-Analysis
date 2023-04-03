@@ -1,0 +1,2 @@
+# Sentiment-Analysis
+This project is a simple mobile app developed using Swift programming language and the Flask library, which uses sentiment analysis to analyze comments related to clothing. It retrieves data in a JSON format using Alamofire and displays it on a table view, making it easy for users to analyze and process the information. While the project may not have a professional-grade sophistication, it is a great starting point for anyone interested in exploring the possibilities of mobile app development, machine learning, and sentiment analysis.
